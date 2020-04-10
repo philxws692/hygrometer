@@ -1,2 +1,2 @@
-# hygrometer
-DHT11 hygrometer logging to AdafruitIO
+# Hygrometer
+DHT11 Hygrometer logging to AdafruitIO
